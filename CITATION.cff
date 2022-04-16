@@ -1,0 +1,15 @@
+abstract: "Cooper is a graphical browser for the Gemini protocol, a new lightweight text-only internet protocol."
+authors:
+  - family-names: Kupriianov
+    given-names: Georgii
+    orcid: "https://orcid.org/0000-0002-7501-3119"
+cff-version: 1.2.0
+date-released: "2022-04-16"
+keywords:
+  - "browser software"
+  - research
+license: GPL-3
+message: "If you use this software, please cite it using the metadata from this file."
+repository-code: "https://github.com/Open-Source-Gems/cooper"
+title: "Cooper Gemini Browser"
+version: 0.3.1
